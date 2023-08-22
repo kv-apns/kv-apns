@@ -9,7 +9,7 @@
 
 ![Kv-apns GitHub stats](https://github-readme-stats.vercel.app/api?username=kv-apns&show_icons=true&theme=onedark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"> <br/>
@@ -29,3 +29,7 @@
     <img align="center" alt="Android" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
    
 </div> <br/>
+
+
+
+
