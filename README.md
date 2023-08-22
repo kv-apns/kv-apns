@@ -7,7 +7,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5593991525410)
 
 
-![Kv-apns GitHub stats](https://github-readme-stats.vercel.app/api?username=kv-apns&show_icons=true&theme=dracula)
+![Kv-apns GitHub stats](https://github-readme-stats.vercel.app/api?username=kv-apns&show_icons=true&theme=onedark)
 
 
 ## Tecnologias que uso no meu dia 
