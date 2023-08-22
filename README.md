@@ -7,9 +7,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5593991525410)
 
 
-![Kv-apns GitHub stats](https://github-readme-stats.vercel.app/api?username=kv-apns&show_icons=true&theme=onedark)
+![Kv-apns GitHub stats](https://github-readme-stats.vercel.app/api?username=kv-apns&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"> <br/>
@@ -29,6 +30,8 @@
     <img align="center" alt="Android" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
    
 </div> <br/>
+
+
 
 
 
