@@ -1,3 +1,4 @@
+
 ### Olá! Eu sou o Keven Makley! 🤙
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/i4Z3Bn)
@@ -19,3 +20,12 @@
     <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+## Sistemas operacionais que uso 
+
+<div style="display: inline_block"> <br/>
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img align="center" alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img align="center" alt="Android" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+   
+</div> <br/>
