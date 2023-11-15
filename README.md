@@ -20,8 +20,8 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white https://icons8.com/icon/cdYUlRaag9G9/docker"/>
-    
+    <img align="center" alt="Docker" src="https://icons8.com/icon/cdYUlRaag9G9/docker"/>
+   
 </div>
 
 ## Sistemas operacionais que uso 
